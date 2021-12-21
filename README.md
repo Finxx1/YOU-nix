@@ -1,4 +1,4 @@
-# YOU-nix
+![Younix](stuff/younix.png)
 An implementation of Unix various tools in the public domain
 ### Why?
 Most Unix-like operating systems are closed source, such as Solaris or have restrictive licenses, like Gnu's Not Unix. While the Berkley Software Distribution and it's derivitives are licensed under a permissive license (BSD-2/3 Clause), there is not a whole Unix system that is public domain. This project is an attempt to change that. Everything in this repository is licensed under the Unlicense, a public-domain license for code.
