@@ -1,3 +1,5 @@
+/* Code written by Finxx1 on GitHub, released under the Unlicense. */
+
 #include <stdio.h>
 #include <string.h>
 
